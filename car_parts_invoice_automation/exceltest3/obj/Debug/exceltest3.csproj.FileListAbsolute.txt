@@ -1,0 +1,14 @@
+c:\users\simon\documents\visual studio 2012\Projects\Database\Johny_Tidy\exceltest3\exceltest3\bin\Debug\exceltest3.exe.config
+c:\users\simon\documents\visual studio 2012\Projects\Database\Johny_Tidy\exceltest3\exceltest3\bin\Debug\exceltest3.exe
+c:\users\simon\documents\visual studio 2012\Projects\Database\Johny_Tidy\exceltest3\exceltest3\bin\Debug\exceltest3.pdb
+c:\users\simon\documents\visual studio 2012\Projects\Database\Johny_Tidy\exceltest3\exceltest3\obj\Debug\exceltest3.csproj.ResolveComReference.cache
+c:\users\simon\documents\visual studio 2012\Projects\Database\Johny_Tidy\exceltest3\exceltest3\obj\Debug\exceltest3.exe
+c:\users\simon\documents\visual studio 2012\Projects\Database\Johny_Tidy\exceltest3\exceltest3\obj\Debug\exceltest3.pdb
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\Database\Johny_Tidy\exceltest3\exceltest3\obj\Debug\exceltest3.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\Database\Johny_Tidy\John_Tidy\exceltest3\bin\Debug\exceltest3.exe.config
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\Database\Johny_Tidy\John_Tidy\exceltest3\obj\Debug\exceltest3.csproj.ResolveComReference.cache
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\Database\Johny_Tidy\John_Tidy\exceltest3\obj\Debug\exceltest3.exe
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\Database\Johny_Tidy\John_Tidy\exceltest3\obj\Debug\exceltest3.pdb
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\Database\Johny_Tidy\John_Tidy\exceltest3\bin\Debug\exceltest3.exe
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\Database\Johny_Tidy\John_Tidy\exceltest3\bin\Debug\exceltest3.pdb
+C:\Users\Simon\Documents\Visual Studio 2012\Projects\Database\Johny_Tidy\John_Tidy\exceltest3\obj\Debug\exceltest3.csprojResolveAssemblyReference.cache
